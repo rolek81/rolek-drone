@@ -2,8 +2,8 @@
 window.ROLEK = {
   brand: 'ROLEK.DRONE', name: 'Bartosz Polek', phone: '+48884787541', phoneLabel: '884 787 541', email: 'bartoszp81@gmail.com',
   youtube: 'https://www.youtube.com/@rolek81', area: 'Mielec i Podkarpacie',
-  // Ścieżka do własnego zdjęcia (np. assets/hero.jpg); puste = grafika topograficzna.
-  heroImage: 'assets/showreel.jpg',
+  // Ścieżka do banera nad ofertą.
+  heroImage: 'assets/banner.jpg',
   // Własny plik MP4, np. assets/showreel.mp4. Film rusza po kliknięciu.
   showreel: '',
   // Dodaj zweryfikowane filmy: { title: 'Tytuł', id: '11-znakowe-ID-YouTube' }
