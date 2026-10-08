@@ -14,9 +14,9 @@ window.ROLEK = {
     {title:'Zimowa panorama', id:'kXwtT182XfI', image:'assets/zima.jpg'}
   ],
   services: [
-    {title:'Zdjęcia nieruchomości', text:'Pokaż dom, działkę lub obiekt firmowy razem z jego otoczeniem.', scope:'8–10 zdjęć', price:149},
-    {title:'Oględziny wizualne', text:'Zobacz dach, komin, elewację lub postęp prac z perspektywy drona.', scope:'10–15 kadrów', price:179},
-    {title:'Surowe ujęcia wideo', text:'Materiał do własnego montażu, ogłoszenia lub mediów społecznościowych.', scope:'Ujęcia w jakości 4K', price:199},
-    {title:'Film promocyjny', text:'Wybrane ujęcia, montaż i podkład muzyczny. Gotowy materiał dla Twojej marki.', scope:'Film 20–40 sekund', price:249}
+    {title:'Zdjęcia nieruchomości', text:'Pokaż dom, działkę lub obiekt firmowy razem z jego otoczeniem.', scope:'8–10 zdjęć', price:139},
+    {title:'Oględziny wizualne', text:'Zobacz dach, komin, elewację lub postęp prac z perspektywy drona.', scope:'10–15 kadrów', price:169},
+    {title:'Surowe ujęcia wideo', text:'Materiał do własnego montażu, ogłoszenia lub mediów społecznościowych.', scope:'Ujęcia w jakości 4K', price:189},
+    {title:'Film promocyjny', text:'Wybrane ujęcia, montaż i podkład muzyczny. Gotowy materiał dla Twojej marki.', scope:'Film 20–40 sekund', price:229}
   ]
 };
